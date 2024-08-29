@@ -1,6 +1,6 @@
 
 
-# Netflix vs. Amazon Prime Video: A Detailed Comparison
+# Netflix vs Amazon Prime Video: A Detailed Comparison
 
 ## Overview
 
