@@ -35,8 +35,6 @@ The Amazon Prime Video dashboard includes:
 - **Distribution by Type**: A pie chart showing the proportion of movies to TV shows.
 - **Ratings Distribution**: A histogram illustrating the distribution of ratings for Amazon Prime Video content.
 
-![Netflix Dashboard](./Netflx-dashboard.png)
-![Amazon Prime Video Dashboard](./Prime-dashboard.png)
 
 ## Key Insights
 
